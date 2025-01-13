@@ -30,18 +30,18 @@ const long utcOffsetInSeconds = 3600; // Offset in second
 int Display_backlight = 255;
 
 //Set the red displays
-int red_day = 26;
-int red_month = 10;
-int red_year = 1985;
-int red_hour = 9;
-int red_minute = 00;
+int red_day = 19;
+int red_month = 09;
+int red_year = 2091;
+int red_hour = 11;
+int red_minute = 05;
 
 //set the orange displays
-int orange_day = 12;
-int orange_month = 11;
-int orange_year = 1955;
-int orange_hour = 06;
-int orange_minute = 38;
+int orange_day = 19;
+int orange_month = 09;
+int orange_year = 1991;
+int orange_hour = 11;
+int orange_minute = 05;
 
 //=====================================================================
 
